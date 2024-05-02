@@ -2,5 +2,5 @@ git使用流程：
 1.打开git bash，使用 cd /d/Softwore/A/Git/Repository,切换到指定的本地仓库路径下
 2.对新建立的本地仓库（文件夹名），要进行git init，让系统知道，这是新建立的仓库
 3.添加文件到暂存区：git add . 或者是 git add app 后跟指定文件
-4.git commit -m “提交描述” 这是才真正提交
+4.git commit -m “提交描述如：add git学习.txt” 这是才真正提交
 5.git clone《远程仓库地址》
